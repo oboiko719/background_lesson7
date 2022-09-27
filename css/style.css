@@ -1,0 +1,134 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;700;900&display=swap');
+
+[class*="__container"] {
+  max-width: 1230px;
+  margin: 0 auto;
+}
+
+.page-box {
+  max-width: 810px;
+}
+
+.title {
+  font-size: 46px;
+  font-weight: 900;
+  line-height: 1.3;
+  color: #1E212C;
+  margin-bottom: 92px;
+}
+
+.image {
+  max-width: 100%;
+  margin-bottom: 60px;
+}
+
+.text {
+  font-size: 20px;
+  line-height: 1.5;
+  color: #1E212C;
+  margin-bottom: 24px;
+  font-weight: 700;
+}
+
+.desk {
+  margin-bottom: 24px;
+}
+
+.text_2 {
+  margin: 48px 0 48px 58px;
+  font-size: 20px;
+  color: #1E212C;
+  line-height: 1.5;
+  font-weight: 700;
+}
+
+.list {
+  line-height: 1.6;
+  margin-left: 33px;
+  margin-bottom: 20px;
+}
+
+.link {
+  margin-bottom: 4px;
+}
+
+li:last-child {
+  margin-bottom: 0;
+}
+
+.practic {
+  margin: 0 auto;
+  padding: 10px;
+  margin-bottom: 15px;
+  background: linear-gradient(to right, #fefcea 9%,#f1da36 51%);
+}
+
+.blok-text {
+  margin-bottom: 20px;
+  font-size: 20px;
+  padding: 10px;
+}
+
+.blok-title {
+  font-size: 40px;
+  font-weight: 700;
+  text-align: center;
+}
+
+.blok_1 {
+  max-width: 810px;
+  margin: 0 auto;
+}
+
+.blok_2 {
+  background-image: url("../img/sport.jpg");
+  background-size: cover;
+  background-position: center;
+  color:aquamarine;
+}
+
+.blok_3 {
+  background:url("../img/sport2.jpg") no-repeat 0 0 / 300px,
+  url(../img/footbal.jpg) no-repeat right bottom / 300px, 
+  url(../img/footbal2.jpg) no-repeat center / 70%;
+  color:rgb(14, 12, 12);
+}
+
+.blok_3-title {
+  font-size: 30px;
+  font-weight: 700;
+  text-align: right;
+  margin-left: 300px;
+  margin-bottom: 300px;
+}
+
+.blok_3-text {
+  margin-bottom: 20px;
+  font-size: 20px;
+  padding: 10px;
+  margin-right: 300px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
